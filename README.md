@@ -1,4 +1,4 @@
-# Example project for ROS-Unity Joint Control Integration
+# Example project for ROS-Unity joint control integration
 
 This is an example project to demonstrate ros-unity-joint-control-integration script.
 You can move Panda arm robot on Unity with MoveIt 2 with this example.
