@@ -10,7 +10,7 @@ You can move Panda arm robot on Unity with MoveIt 2 with this example.
 
 ## How to setup this demo
 
-1. Build demo sources
+1. Build demo projects and packages
    1. Unity Side
       1. Clone this demo repository
          ```bash
